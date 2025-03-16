@@ -1,0 +1,16 @@
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\bin\Debug\net8.0-windows\Assignment4_1_2Calculator.exe
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\bin\Debug\net8.0-windows\Assignment4_1_2Calculator.deps.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\bin\Debug\net8.0-windows\Assignment4_1_2Calculator.runtimeconfig.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\bin\Debug\net8.0-windows\Assignment4_1_2Calculator.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\bin\Debug\net8.0-windows\Assignment4_1_2Calculator.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\Assignment4_1_2Calculator.FormCalculator.resources
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\Assignment4_1_2Calculator.csproj.GenerateResource.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\Assignment4_1_2Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\Assignment4_1_2Calculator.AssemblyInfoInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\Assignment4_1_2Calculator.AssemblyInfo.cs
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\Assignment4_1_2Calculator.csproj.CoreCompileInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\Assignment4_1_2Calculator.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\refint\Assignment4_1_2Calculator.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\Assignment4_1_2Calculator.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\Assignment4_1_2Calculator.genruntimeconfig.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment4_1_2Calculator\obj\Debug\net8.0-windows\ref\Assignment4_1_2Calculator.dll
